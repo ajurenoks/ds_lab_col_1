@@ -1,4 +1,4 @@
-# LL: Find Kth Node From End ( ** Interview Question)
+# LL: Find Kth Node From End 
 
 Implement the `find_kth_from_end` function, which takes the `LinkedList` (`ll`) and an integer `k` as input, and returns the k-th node from the end of the linked list **WITHOUT USING LENGTH**.
 
